@@ -1,2 +1,4 @@
 # Python_Automatisation_Project
-Automation testing ui project using Selenium web driver and Python scripting
+Writing basic scripts with python for 
+Automation testing ui project using Selenium web driver
+
